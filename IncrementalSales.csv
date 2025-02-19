@@ -1,0 +1,3 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
+XYZ9726,DLR0063,ZYXM13,22372413,3,DT01248,1,6,2020,DataFam Motors,Datafam Dealers,Surprise
+BR9546,DLR0060,Jee-M10,22093020,3,DT01248,1,6,2020,Premier Motors,"Fisker, Karma Motors",Jeep
